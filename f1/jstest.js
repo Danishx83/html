@@ -1,6 +1,6 @@
 import {textLine1, textLine2} from './module1.js'; //imports
 
-var init = function(){
+function init(){
 	pi1 = document.getElementById("idP1");
 	pi2 = document.getElementById("idP2");
 	pi3 = document.getElementById("idP3");
