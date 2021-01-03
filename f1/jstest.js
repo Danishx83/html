@@ -1,4 +1,1 @@
-var init = function(){
-	pi = document.getElementById("idP");
-	pi.innerHTML = "It is Javascript inserted text.";
-}
+var textLine1 = "It is a text lne from module";
