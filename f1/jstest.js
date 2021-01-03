@@ -1,4 +1,4 @@
-import {textLine1} from './module1.js'; //imports
+import {textLine1, textLine2} from './module1.js'; //imports
 
 var init = function(){
 	pi1 = document.getElementById("idP1");
