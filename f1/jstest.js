@@ -1,6 +1,8 @@
 var init = function(){
-	pi = document.getElementById("idP");
-	pi.innerHTML = "It is Javascript inserted text.\n";
-	pi.innerHTML += "Added a JS module.\n";
-	pi.innerHTML += textLine1;
+	pi1 = document.getElementById("idP1");
+	pi2 = document.getElementById("idP2");
+	pi3 = document.getElementById("idP3");
+	pi1.innerHTML = "It is Javascript inserted text.";
+	pi2.innerHTML = "Added a JS module.";
+	pi3.innerHTML = textLine1;
 }
